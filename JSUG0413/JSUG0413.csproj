@@ -79,6 +79,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\Chatdirective\chatController.js" />
+    <Content Include="Scripts\Chatdirective\chatDirective.js" />
+    <Content Include="Scripts\Chatdirective\chatTemplate.html" />
+    <Content Include="Scripts\demo.js" />
+    <Content Include="Scripts\messagecontroller.js" />
+    <Content Include="Scripts\messageFactory.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

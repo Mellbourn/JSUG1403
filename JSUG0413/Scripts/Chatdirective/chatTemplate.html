@@ -1,0 +1,4 @@
+﻿<form ng-submit="send">
+    <input type="textbox" ng-model="text" /><button ng-click="send()">Send</button>
+    <div ng-repeat="mess in message">{{mess.name}} : {{mess.message}}</div>
+</form>
